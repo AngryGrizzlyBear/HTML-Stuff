@@ -1,8 +1,2 @@
 # HTML-Stuff
-What's the best way to learn? To start from the beginning, learn properly, apply said proper learning skills, and repeat. 
-
-To be honest, I feel like I'm starting from the beginning. 
-
-Hopefully, I'll be able to look back on this day and say "Kid, ya' did good."
-
-More changes to the readme incoming. 
+I'll be making a few changes again over the weekend. Right now, this is to just fufill my daily 'commit', as it's kinda' hard to do anything when the StarWars aired tonight.
